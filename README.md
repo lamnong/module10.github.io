@@ -1,6 +1,6 @@
 #Team Profile Generator 
 
-##Github link:
+##Github link: https://github.com/lamnong/module10.github.io
 
 ```AS A manager
 I WANT to generate a webpage that displays my team's basic info
@@ -31,3 +31,7 @@ ScreenShot:
 ![html screenshot](image/Screen%20Shot%202022-06-19%20at%203.09.15%20PM.png)
 
 Video: 
+
+
+https://user-images.githubusercontent.com/105169641/174502487-af0eecb1-2cd7-495b-a7a3-449ddbcca929.mp4
+
