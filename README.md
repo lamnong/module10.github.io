@@ -34,5 +34,5 @@ ScreenShot:
 Video: 
 
 
-![video demo](https://www.youtube.com/watch?v=5EuI3ONSfLs "Team Profile Generator")
+[video demo](https://www.youtube.com/watch?v=5EuI3ONSfLs)
 
