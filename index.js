@@ -193,7 +193,7 @@ function generateHtml() {
     <section class="employee">
       <span>${intern.getName()}</span>
       <span>${intern.getRole()}</span>
-      <div>${intern.getId()}</div>
+      <div>ID: ${intern.getId()}</div>
       <a href="mailto:${intern.getEmail()}">Email: ${intern.getEmail()}</a>
       <div>${intern.getSchool()}</div>
     </section>
